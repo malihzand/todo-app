@@ -5,6 +5,8 @@
 *.sqlite3
 migrations
 
+# vscode stuffs
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -91,6 +93,7 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
+pyenv.cfg
 
 # Spyder project settings
 .spyderproject
